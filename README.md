@@ -17,8 +17,13 @@ This project implements a 4-tap FIR (Finite Impulse Response) filter using Veril
 
 
 ## Tools Used
->> ModelSim / Vivado / ISE.
->> GitHub for version control.
+>> Verilog HDL : Design and implementation of FIR filter.
+>> Icarus Verilog (iverilog) : Verilog compiler and simulator.
+>> EPWave : Online VCD waveform viewer.
+>> MATLAB : To generate FIR filter coefficients.
+>> VS Code : Code editor for Verilog development.
+>> Vivado/ModelSim for hardware-level simulation or synthesis (not used in this version).
+
 
 
 ## Simulation Instructions
